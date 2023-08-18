@@ -39,6 +39,7 @@ This is a web based application developed for a restaurant named PARADISE.
 ![contact2](https://github.com/Srikavya7117/Project-FRT/assets/138102334/211e5f8f-d5c0-4d4f-b2ee-6738fee856f3)
 ![contact3](https://github.com/Srikavya7117/Project-FRT/assets/138102334/eb22ff36-e777-41f9-8d29-79dbc52c082e)
 
+### Healthbot -![healthbot](https://github.com/Srikavya7117/Project-FRT/assets/138102334/4148a5e5-5b8f-47b9-9a2d-4770a771bd4b)
 
 ## Tech Stack 💻
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
